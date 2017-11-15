@@ -1,0 +1,17 @@
+{
+    "name": "SHT1x",
+    "version": "1.0.0",
+    "keywords": "SHT10,SHT11,SHt15,SHT71,SHT75",
+    "description": "Sensirion SHT10, SHT11, SHT15，SHT71, SHT75等(温湿度传感器)驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/SHT1x.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
